@@ -155,7 +155,7 @@ X进制转十进制，[进制转换_题目2：B3620 x 进制转 10 进制](https
 
 [二叉树_题目43：979. 在二叉树中分配硬币.md](https://github.com/pingguo1987/CSP-NOIP-GESP-/blob/main/%E4%BA%8C%E5%8F%89%E6%A0%91/%E4%BA%8C%E5%8F%89%E6%A0%91_%E9%A2%98%E7%9B%AE43%EF%BC%9A979.%20%E5%9C%A8%E4%BA%8C%E5%8F%89%E6%A0%91%E4%B8%AD%E5%88%86%E9%85%8D%E7%A1%AC%E5%B8%81.md)
 
-#### 排列组合
+#### [排列组合](https://github.com/pingguo1987/CSP-NOIP-GESP-/blob/main/%E6%8E%92%E5%88%97%E7%BB%84%E5%90%88/%E6%8E%92%E5%88%97%E7%BB%84%E5%90%88.md)
 
 
 
