@@ -157,7 +157,11 @@ X进制转十进制，[进制转换_题目2：B3620 x 进制转 10 进制](https
 
 #### [排列组合](https://github.com/pingguo1987/CSP-NOIP-GESP-/blob/main/%E6%8E%92%E5%88%97%E7%BB%84%E5%90%88/%E6%8E%92%E5%88%97%E7%BB%84%E5%90%88.md)
 
+[一网打尽 CSP/NOIP排列组合](https://github.com/pingguo1987/CSP-NOIP-GESP-/blob/main/%E6%8E%92%E5%88%97%E7%BB%84%E5%90%88/%E6%8E%92%E5%88%97%E7%BB%84%E5%90%88.md)
 
+#### 图论
+
+[图论_题目1：797. 所有可能的路径.md](https://github.com/pingguo1987/CSP-NOIP-GESP-/blob/main/图论/图论_题目1：797. 所有可能的路径.md)
 
 
 
